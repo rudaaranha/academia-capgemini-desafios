@@ -5,13 +5,6 @@ Abaixo estão as questões propostas nesta etapa do processo:
 
 # Questão 01
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
-Saída:
-      *
-     **
-    ***
-   ****
-  *****
- ******
 
 # Questão 02
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
