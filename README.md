@@ -1,5 +1,7 @@
 # academia-capgemini
 Repositório dedicado a hospedagem dos desafios referentes à terceira etapa do processo de seleção para a Academia Capgemini 2022. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 Abaixo estão as questões propostas nesta etapa do processo:
 
 ### Questão 01
@@ -17,5 +19,6 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 ### Questão 03
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
-Os desafios propostos foram resolvidos utilizando a linguagem Java atráves do IDE IntelliJ. Os arquivos referentes a solução para o desafio foram noemeados como Questão1, Questão2 e Questão3, e estão localizados na pasta src.
+Os desafios propostos foram resolvidos utilizando a linguagem Java atráves do IDE IntelliJ, jdk 11.0.12. Os arquivos referentes a solução para o desafio foram noemeados como Questão1, Questão2 e Questão3, e estão localizados na pasta src.
