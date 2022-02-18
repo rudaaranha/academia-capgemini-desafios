@@ -2,7 +2,10 @@ import java.util.Arrays;
 
 public class Questão1 {
     public static void main(String[] args) {
-        int n = 6;
+        Scanner teclado = new Scanner(System.in);
+        System.out.print("Quantos degraus a escada possui? ");
+        String escada = teclado.nextLine();
+        int n = Integer.parseInt(escada);
         char espaco = ' ';
         char ast = '*';
 
